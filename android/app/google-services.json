@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959507817325",
+    "project_id": "loverscupid-b9f0a",
+    "storage_bucket": "loverscupid-b9f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959507817325:android:6fc443d22d0633e7faf064",
+        "android_client_info": {
+          "package_name": "com.loverscupid.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959507817325-ppmc7i4tb2736kv9ll4pkc6epv810l27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.loverscupid.app",
+            "certificate_hash": "62bc7fefe6c60ac1ee214699f00e280c56c751bf"
+          }
+        },
+        {
+          "client_id": "959507817325-2babt67gktoat1250uu8ft14rf4ds47p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK6z5L5PhYL_mO1voTDo1CCrIEnmqQSjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959507817325-2babt67gktoat1250uu8ft14rf4ds47p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
